@@ -8,4 +8,5 @@ node server2.js
 
 # testing
 mqtt sub -t '/messages' -h 'localhost'
+
 mqtt pub -t '/messages' -h 'localhost' -m 'test'
