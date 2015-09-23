@@ -1,5 +1,3 @@
-# mqtt-poc
-
 # running
 
 docker-compose up
