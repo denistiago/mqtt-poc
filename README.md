@@ -1,7 +1,8 @@
 # running
 
-docker-compose up
+
 ```
+docker-compose up
 npm install
 node server1.js
 node server2.js
